@@ -1,11 +1,15 @@
 # Master-Aire-2019
 This is a beginner project of collecting, analyzing and visualising data.
 Assessing the permeability of knowledge between students in the Master AIRE of CRI.
-1.The goal
-Inspired by Moreno 1986's sociogramme, I wanted to map out the relationship between student and see if there was any correlation with passing of knowledge between them as well as, assessing the level of potential permeability of knowledge bewteen students. Based on their past interaction and the status or their relationship, I wanted to evaluate how easy is for knowledge to be passed from on student to another. My goal was also to see which students are actively recipient/giver of mentorships and maybe see if some practical application could be devised from it, like integrating workshops or mentor status in the master.
+
+**1.The goal**
+
+This is a beginner project of collecting, analyzing and visualising data. Assessing the permeability of knowledge between students in the Master AIRE of CRI.Inspired by Moreno 1986's sociogramme, I wanted to map out the relationship between student and see if there was any correlation with passing of knowledge between them as well as, assessing the level of potential permeability of knowledge bewteen students. Based on their past interaction and the status or their relationship, I wanted to evaluate how easy is for knowledge to be passed from on student to another. My goal was also to see which students are actively recipient/giver of mentorships and maybe see if some practical application could be devised from it, like integrating workshops or mentor status in the master.
 
 **2.The process**
+
 **A.The form**
+
 I started by trying to find a way to organize all the criteria I had decided on and got self assessment from the google form. 15 students responded to my form. (Link to the form)
 
 **I.Content of the form**
@@ -46,7 +50,7 @@ Each of participants had to respond to the following questions:
 -Other
 
 
-Question 3 and 4 where ask for the Lisc, Lesc and Disc student in 3 seperate and consecutives parts of the form, to make reading the heading easier, as well as to not overwhelm the student with the amount of questions visible at once.
+*Question 3 and 4 where ask for the Lisc, Lesc and Disc student in 3 seperate and consecutives parts of the form, to make reading the heading easier, as well as to not overwhelm the student with the amount of questions visible at once.*
 
 
 3.What is your relationship with that student?
@@ -87,10 +91,10 @@ Question 3 and 4 where ask for the Lisc, Lesc and Disc student in 3 seperate and
 -no
 
 
-#II. Goal of each question
+**II. Goal of each question**
 
-Questions
-What I wanted to assess:
+Questions - What I wanted to assess:
+
 1.In what Master are you?
 Physical proximity during studies, Closeness of subject of interest
 
@@ -117,69 +121,65 @@ Nature of the knowledge
 Consent to be identified in the study
 
 **3.The outcome**
+
 -Google form results
+
 I removed the names of students, since a majority of them didn’t want to be named. 
 Before having the dataset, my goal was to give weight to the sympathetic links between students by simply dispatching the answer of quetsion 3.(What is your relationship with that student?) on a scale from 0 to 
 
-Thats me
-0
+---------------- 
 
-I don't know them
--1
+Thats me = 0
 
-I know them
-0
+I don't know them = -1
 
-We share a class together
-2
+I know them = 0
 
-We are friend
-2
+We share a class together = 2
 
-We are close friend
-2
+We are friend = 2
 
-We are best friend
-3
+We are close friend = 2
+
+We are best friend = 3
+
+------------------------
 
 I decided on these value arbitrarily. My problem was, how to know if someone is more likely to share knowledge, learn from someone, depending on their closeness?
 Does sharing a class makes you more prone to share knowledge with all your classmate than if you are note in the same course, but you are best friend? 
 
 I tried to attribute coefficients to the past event where student had exchanged knowledge as such:
 
-Thats me
-0
+----------------------
 
-They helped me with a difficulty I had in a class
-2
+Thats me = 0
 
-They taught me a subject
-2
+They helped me with a difficulty I had in a class = 2
 
-I taught them a certain subject
-2
+They taught me a subject = 2
 
-We had a project together but we each had our task
-1
+I taught them a certain subject = 2
 
-We had a project together and we learnt from each other
-4
+We had a project together but we each had our task = 1
 
-We share a specific interest and discuss them
-4
+We had a project together and we learnt from each other = 4
 
-We don't
-0
+We share a specific interest and discuss them = 4
 
+We don't = 0
+
+-----------------------
 My intuition was that if a student has helped another, has been taught  or they reciprocally helped each other then they have a propensity to being helpfull, or at least offer back help to the student that helped them thus making them more likely to help their fellow student in the futur. 
 
 This method was too unmathematical to produce a usable and clean dataset to be used with GEPHI, since every manip and replacement was done by hand. So after giving up on working on the result of my google form I decided to rework the already existing graph from goole to assess character trait in students regarding friendship and learning style. These are still arbitrary, but more understandable from a sociological standpoint.
 
-**Results**
+**4.Results**
+
 They can be found in pdf form in the folder of this repositary.
 This led me to identify the following types:
 
 *Social type*
+
 -Average social student: they are considered a friendly relationship with almost all the population
 
 - Not very social student: they are unknown or predominently a considered a classmate by the population
