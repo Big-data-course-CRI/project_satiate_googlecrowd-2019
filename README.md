@@ -124,7 +124,10 @@ Consent to be identified in the study
 
 -Google form results
 
-I removed the names of students, since a majority of them didn’t want to be named. 
+I removed the names of students, since a majority of them didn’t want to be named and replaced them with a random list from http://listofrandomnames.com/ 
+
+**The results of the google form can be found in the repositary in csv format.**
+
 Before having the dataset, my goal was to give weight to the sympathetic links between students by simply dispatching the answer of quetsion 3.(What is your relationship with that student?) on a scale from 0 to 
 
 ---------------- 
