@@ -174,7 +174,7 @@ We don't = 0
 -----------------------
 My intuition was that if a student has helped another, has been taught  or they reciprocally helped each other then they have a propensity to being helpfull, or at least offer back help to the student that helped them thus making them more likely to help their fellow student in the futur. 
 
-This method was too unmathematical to produce a usable and clean dataset to be used with GEPHI, since every manip and replacement was done by hand. So after giving up on working on the result of my google form I decided to rework the already existing graph from goole to assess character trait in students regarding friendship and learning style. These are still arbitrary, but more understandable from a sociological standpoint.
+This method was too unmathematical to produce a usable and clean dataset to be used with GEPHI, since every manip and replacement was done by hand. So after giving up on working on the result of my google form I decided to rework the already existing graph from google with illustrator and experimenting with different type of graphs, to assess character traits in students, regarding social types and learning style. These are still arbitrary, but more understandable from a sociological standpoint.
 
 **4.Results**
 
