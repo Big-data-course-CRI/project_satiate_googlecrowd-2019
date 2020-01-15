@@ -180,7 +180,7 @@ This led me to identify the following types:
 
 *Social type*
 
--Average social student: they are considered a friendly relationship with almost all the population
+- Average social student: they are considered a friendly relationship with almost all the population
 
 - Not very social student: they are unknown or predominently a considered a classmate by the population
 
@@ -190,11 +190,11 @@ This led me to identify the following types:
 
 *Learning style*
 
--Solo: they predominently have no learning relationship with the rest of the population
+- Solo: they predominently have no learning relationship with the rest of the population
 
--Social: they have a learning style that is based on shared interest
+- Social: they have a learning style that is based on shared interest
 
--Mutual: they learn in settings of mutual exchange, like group project, teaching to one and being taught
+- Mutual: they learn in settings of mutual exchange, like group project, teaching to one and being taught
 
 
 
@@ -202,32 +202,33 @@ _**Conclusion**_
 
 This project is only a first approach to what data analysis is. It mostly allowed me to see different types of profiles and learning styles, but also highlights all the parameters that need more refinement and precision to be objective and quantitative:
 
--Are my questions tragettingthe right variables?
+- Are my questions tragettingthe right variables?
 
--Is my phrasing unbiased ( on respondant decided to not qualify their relationship with 3 other people, one systematically put best friend to all the classmate of her specialty)
+- Is my phrasing unbiased ( on respondant decided to not qualify their relationship with 3 other people, one systematically put best friend to all the classmate of her specialty)
 
--I assessed the learning style and Social type visualy, if I had the skills to quantify properly with statistics each traits, would the number verify my assessements?
+- I assessed the learning style and Social type visualy, if I had the skills to quantify properly with statistics each traits, would the number verify my assessements?
 
--My sample size is very small, 15 persons only, is a not representative of the french system since we are in an english speaking setup with multicultural students: do I need a preliminary study to assess how their background might be a variable that correlates to learning style, rather than the ties they have with their classmates?
+- My sample size is very small, 15 persons only, is a not representative of the french system since we are in an english speaking setup with multicultural students: do I need a preliminary study to assess how their background might be a variable that correlates to learning style, rather than the ties they have with their classmates?
 
 *A study on helpfulness or solidarity is needed to better assess how much impact each event I listed has on the propensity of one student to help another. Then maybe better questions could be:*
 
--Does the subject consider they have valuable skills? (notion of self efficacy)
--Are they good at sharing (what is good sharing)?
+- Does the subject consider they have valuable skills? (notion of self efficacy)
 
--Are they willing to share?
+- Are they good at sharing (what is good sharing)?
 
--What relationship make a mutual exchange more likely?
+- Are they willing to share?
+
+- What relationship make a mutual exchange more likely?
 
 Also studying the dispersion of knowledge could be interesting:
 
--what knowledge is being shared?
+- What knowledge is being shared?
 
--how much?
+- How much?
 
--at what rate?
+- At what rate?
 
--through which student?
+- Through which student?
 
 And from this draw conclusion on what organisation makes an efficient and self sustainable campus, where information can circulate better, where co-learning is actually happening.
 
@@ -241,21 +242,20 @@ And if there isn't, how can we test ways to bring it about?
 
 **Skills needed to start Data Analysis and Network Analysis and making a project on Github**
 
--Understanding of how github works
+- Understanding of how github works
 
--Basic editing skills for the read.me file
+- Basic editing skills for the read.me file
 
--Theoretical understanding of what a Network is
+- Theoretical understanding of what a Network is
 
--Knowledge of Mathematical Probability and statistics
+- Knowledge of Mathematical Probability and statistics
 
--Research methodology
+- Research methodology
 
--Data collecting or scraping skills
+- Data collecting or scraping skills
 
--Python skills for Data cleaning
+- Python skills for Data cleaning
 
--Or R skills for Data cleaning
+- Or R skills for Data cleaning
 
--Understand how Gephi works and to what model each setup refers to analize what is happening in network
-
+- Understand how Gephi works and to what model each setup refers to analize what is happening in network
